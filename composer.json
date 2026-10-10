@@ -1,0 +1,17 @@
+{
+  "name": "uepal/fr.uepalparoisse.cumulativetranslations",
+  "description": "Cumulative translations for Civiparoisse project",
+  "license": "AGPL-3.0",
+  "require": {
+    "civicrm/composer-compile-plugin": "*"
+  },
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "extra": {
+    "compile": [
+      {
+       "run": "@sh /bin/bash -c pwd; set -xv ; install -d ../../civicrm/civicrm-core/l10n/fr_FR/LC_MESSAGES ; EXTENSIONS=`cat extensions.txt` ; for EXT in ${EXTENSIONS}; do if [ -f \"${EXT}/${EXT}.mo\" ] ; then cp \"${EXT}/${EXT}.mo\" \"../../civicrm/civicrm-core/l10n/fr_FR/LC_MESSAGES/${EXT}.mo\"; fi ; done"
+      }
+     ]
+  }
+}

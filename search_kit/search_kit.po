@@ -1,0 +1,2054 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-08 15:35+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "SearchKit"
+msgstr "SearchKit"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Row Number"
+msgstr "Numéro de la ligne"
+
+msgid "Index of each row, starting from 1 on the first page"
+msgstr "Index de chaque ligne, débute à 1 (sur la première page)"
+
+msgid "Current User ID"
+msgstr "Id. de l'utilisateur actuel"
+
+msgid "Contact ID of the current user if logged in"
+msgstr "Id. de l'utilisateur actuel (s'il est connecté)"
+
+msgid "Current Date"
+msgstr "Date du jour"
+
+msgid "System date at the moment the search is run"
+msgstr "Date système au moment où la recherche est lancée"
+
+msgid "Current Date + Time"
+msgstr "Date et Heure actuelles"
+
+msgid "System date and time at the moment the search is run"
+msgstr "Date et heure système au moment où la recherche est lancée"
+
+msgid "View %1"
+msgstr "Voir %1"
+
+msgid "Enable"
+msgstr "Activer"
+
+msgid "Disable"
+msgstr "Désactiver"
+
+msgid "Export %1"
+msgstr "Exporter %1"
+
+msgid "Download Spreadsheet"
+msgstr "Télécharger (xlsx, pdf, csv...)"
+
+msgid "Update %1"
+msgstr "Mettre à jour %1"
+
+msgid "Enable %1"
+msgstr "Activer %1"
+
+msgid "Enabling %1 %2..."
+msgstr "Activation de %1 %2..."
+
+msgid "Successfully enabled %1 %2."
+msgstr "Activation réussie de %1 %2."
+
+msgid "An error occurred while attempting to enable %1 %2."
+msgstr "Une erreur est apparue lors de la tentative d'activation de %1 %2."
+
+msgid "Disable %1"
+msgstr "Désactiver %1"
+
+msgid "Are you sure you want to disable %1 %2?"
+msgstr "Êtes-vous sûr que vous voulez désactiver %1 %2 ?"
+
+msgid "Disabling %1 %2..."
+msgstr "Désactivation de %1 %2..."
+
+msgid "Successfully disabled %1 %2."
+msgstr "Désactivation de %1 %2 réussie."
+
+msgid "An error occurred while attempting to disable %1 %2."
+msgstr "Une erreur est apparue lors de la tentative de désactivation de %1 %2."
+
+msgid "Tag - Add/Remove Tags"
+msgstr "Étiquette/Tag - Ajouter/Retirer"
+
+msgid "Delete %1"
+msgstr "Supprimer %1"
+
+msgid "Are you sure you want to delete %1 %2?"
+msgstr "Voulez vous vraiment supprimer %1 %2 ?"
+
+msgid "Deleting %1 %2..."
+msgstr "Suppression de %1 %2..."
+
+msgid "Successfully deleted %1 %2."
+msgstr "Succès de la suppression de %1 %2."
+
+msgid "An error occurred while attempting to delete %1 %2."
+msgstr "Une erreur est apparue lors de la tentative de suppression de %1 %2."
+
+msgid "Refresh Group Cache"
+msgstr "Actualiser le cache du groupe"
+
+msgid "Refreshing %1 %2..."
+msgstr "Actualise %1 %2..."
+
+msgid "%1 %2 Refreshed."
+msgstr "%1 %2 Actualisé."
+
+msgid "An error occurred while attempting to refresh %1 %2."
+msgstr ""
+"Une erreur s'est produite lors de la tentative d'actualisation de %1 %2."
+
+msgid "Profile Update"
+msgstr "Mettre à jour via un profil"
+
+msgid "Dedupe - Merge 2 Contacts"
+msgstr "Dédoublonner - Fusionner 2 contacts"
+
+msgid "Contains"
+msgstr "Contient"
+
+msgid "Doesn't Contain"
+msgstr "Ne contient pas"
+
+msgid "Is One Of"
+msgstr "Est l'un de"
+
+msgid "Not One Of"
+msgstr "N'est pas l'un de"
+
+msgid "Is Like"
+msgstr "Est comme (like)"
+
+msgid "Not Like"
+msgstr "N'est pas comme (not like)"
+
+msgid "Matches Pattern"
+msgstr "Correspond au modèle (pattern)"
+
+msgid "Doesn't Match Pattern"
+msgstr "Ne correspond pas au modèle (pattern)"
+
+msgid "Matches Pattern (case-sensitive)"
+msgstr "Correspond au modèle (sensible à la casse)"
+
+msgid "Doesn't Match Pattern (case-sensitive)"
+msgstr "Ne correspond pas au modèle (sensible à la casse)"
+
+msgid "Is Between"
+msgstr "Est entre"
+
+msgid "Not Between"
+msgstr "N'est pas entre"
+
+msgid "Is Empty"
+msgstr "Est vide"
+
+msgid "Not Empty"
+msgstr "N'est pas vide"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Primary"
+msgstr "Principal"
+
+msgid "Secondary"
+msgstr "Secondaire"
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Warning"
+msgstr "Avertissement"
+
+msgid "Danger"
+msgstr "Danger"
+
+msgid "Address (primary) %1"
+msgstr "Adresse (principale) %1"
+
+msgid "Address (billing) %1"
+msgstr "Adresse (facturation) %1"
+
+msgid "Multiple %1 per %2"
+msgstr "%1 multiples par %2"
+
+msgid "Arithmetic"
+msgstr "Arithmétique"
+
+msgid "Add, subtract, multiply, divide"
+msgstr "Ajouter, soustraire, multiplier, diviser"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Where"
+msgstr "Où"
+
+msgid "Having"
+msgstr "Ayant (having)"
+
+msgid "Search for"
+msgstr "Rechercher"
+
+msgid "Optional label for this join"
+msgstr "Libellé facultatif pour cette jointure"
+
+msgid "Remove join"
+msgstr "Retirer la jointure"
+
+msgid "If"
+msgstr "Si"
+
+msgid "Add Condition"
+msgstr "Ajouter une condition"
+
+msgid "Entity"
+msgstr "Entité"
+
+msgid "Group By"
+msgstr "Grouper par"
+
+msgid ""
+"Unable to create smart group because this search does not include any "
+"contacts."
+msgstr ""
+"Impossible de créer un groupe dynamique car cette requête n'inclut aucun "
+"contact."
+
+msgid "Group Title"
+msgstr "Titre du groupe"
+
+msgid "Untitled"
+msgstr "Sans titre"
+
+msgid "Contact Column"
+msgstr "Colonne de contact"
+
+msgid "Request took %1 seconds."
+msgstr "La requête a nécessité %1 secondes."
+
+msgid "Run search to view SQL"
+msgstr "Lancer une recherche pour afficher le code SQL"
+
+msgid "Description (shown above default display)"
+msgstr "Description (affichée au dessus de l'affichage par défaut)"
+
+msgid "Search Expiry Date"
+msgstr "Rechercher la date d'expiration"
+
+msgid "Expires"
+msgstr "Expiration"
+
+msgid "org.civicrm.search_kit"
+msgstr "org.civicrm.search_kit"
+
+msgid "Search For"
+msgstr "Rechercher"
+
+msgid "Filter Conditions"
+msgstr "Conditions du filtre"
+
+msgid "Select Fields"
+msgstr "Sélectionner les champs"
+
+msgid "Configure Settings"
+msgstr "Configurer les paramètres"
+
+msgid "Query Info"
+msgstr "Info sur la requête"
+
+msgid "With (optional)"
+msgstr "Avec (optionnel)"
+
+msgid "With (required)"
+msgstr "Avec (nécessaire)"
+
+msgid "Without"
+msgstr "Sans"
+
+msgid "%1 Search by %2"
+msgstr "%1 Recherche par %2"
+
+msgid "Form \"%1\" will be deleted if the embedded display \"%2\" is deleted."
+msgstr ""
+"Le formulaire %1 sera supprimé si l'affichage embarqué %2 est supprimé."
+
+msgid "%1 forms will be deleted if the embedded display \"%2\" is deleted."
+msgstr ""
+"%1 formulaires seront supprimés si l'affichage embarqué %2 est supprimé."
+
+msgid "Display embedded"
+msgstr "Affichage embarqué"
+
+msgid "(copy)"
+msgstr "(copie)"
+
+msgid "Search Label"
+msgstr "Titre de la recherche"
+
+msgid "%1 is a required field."
+msgstr "%1 est un champ requis."
+
+msgid "Display Label"
+msgstr "Titre de l'affichage"
+
+msgid "Error Saving"
+msgstr "Enregistrement de l'erreur"
+
+msgid "Extra"
+msgstr "Extra"
+
+msgid "Search Template"
+msgstr "Recherche le modèle"
+
+msgid "Saved Search"
+msgstr "Recherche enregistrée"
+
+msgid "Bootstrap theme not found."
+msgstr "Aucun thème Boostrap trouvé."
+
+msgid ""
+"This screen may not work correctly without a bootstrap-based theme such as "
+"Shoreditch installed."
+msgstr ""
+"Cet écran pourrait ne pas fonctionner correctement si aucun thème basé sur "
+"Bootstrap comme Shoreditch n'est installé."
+
+msgid "Untitled Search"
+msgstr "Recherche sans titre"
+
+msgid "Saved Search label"
+msgstr "Libellé de la recherche sauvegardée"
+
+msgid "Saved"
+msgstr "Enregistré"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Saving..."
+msgstr "Enregistrement en cours..."
+
+msgid "1 Form"
+msgstr "1 formulaire"
+
+msgid "%1 Forms"
+msgstr "%1 formulaires"
+
+msgid "Forms..."
+msgstr "Formulaires..."
+
+msgid "Create form for search results table"
+msgstr "Créer un formulaire pour le tableau des résultats par défaut"
+
+msgid "Create form for %1"
+msgstr "Créer un formulaire pour %1"
+
+msgid "Edit form"
+msgstr "Modifier le formulaire"
+
+msgid "View search results table"
+msgstr "Voir le tableau des résultats par défaut"
+
+msgid "View Results"
+msgstr "Voir les résultats"
+
+msgid "View results using display"
+msgstr "Visualiser les résultats à l'aide de l'écran"
+
+msgid "Search results table"
+msgstr "Tableau des résultats par défaut"
+
+msgid "Display has permissions disabled"
+msgstr "Les autorisations sont désactivées pour cet affichage"
+
+msgid "View display"
+msgstr "Voir l'affichage"
+
+msgid "Refresh"
+msgstr "Actualiser"
+
+msgid "Preview"
+msgstr "Prévisualiser"
+
+msgid ""
+"Only users with \"all CiviCRM permissions and ACLs\" can disable permission "
+"checks."
+msgstr ""
+"Seuls les utilisateurs avec les toutes les \"autorisations CiviCRM et ACLs\" "
+"peuvent désactiver les contrôles d'autorisations."
+
+msgid "Links"
+msgstr "Liens"
+
+msgid "Buttons"
+msgstr "Boutons"
+
+msgid "Menu"
+msgstr "Menu"
+
+msgid "Custom Code"
+msgstr "Code personnalisé"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Random"
+msgstr "Aléatoire"
+
+msgid "Columns"
+msgstr "Colonnes"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Bypass Permissions"
+msgstr "Outrepasser les autorisations"
+
+msgid "Enforce Permissions"
+msgstr "Forcer les autorisations"
+
+msgid ""
+"Anyone who can view this display will be able to see all results, regardless "
+"of their permission level."
+msgstr ""
+"Tous ceux qui sont autorisés à visualiser cet affichage pourront voir tous "
+"les résultats, quelles que soient les autorisations de l'utilisateur."
+
+msgid "Description (shown above)"
+msgstr "Description (affichée au dessus)"
+
+msgid "View search display on its own page"
+msgstr "Voir l'affichage dans une page dédiée"
+
+msgid "View Display"
+msgstr "Voir l'affichage"
+
+msgid "Also by"
+msgstr "Et aussi par"
+
+msgid "Sort by"
+msgstr "Trier par"
+
+msgid "Ascending"
+msgstr "Croissant"
+
+msgid "Descending"
+msgstr "Décroissant"
+
+msgid "Clear"
+msgstr "Réinitialiser"
+
+msgid "Select field"
+msgstr "Sélectionner le champ"
+
+msgid "1 Display"
+msgstr "1 affichage"
+
+msgid "%1 Displays"
+msgstr "%1 affichages"
+
+msgid "Smart Group"
+msgstr "Groupe dynamique"
+
+msgid "%1 Smart Groups"
+msgstr "%1 groupes dynamiques"
+
+msgid ""
+"Search configuration can be copied from here, then pasted into \"Import\" to "
+"e.g. transfer between sites."
+msgstr ""
+"Vous pouvez copier la configuration de la recherche ici, puis la coller via "
+"le bouton \"Import\", par exemple pour la transférer vers un autre CiviCRM."
+
+msgid "Copyable link:"
+msgstr "Lien copiable :"
+
+msgid "Saved Search Criteria"
+msgstr "Critères de la recherche enregistrée"
+
+msgid "To package for distribution in an extension, use"
+msgstr ""
+"Afin d'empaqueter la recherche pour l'ajouter dans une extension, utiliser"
+
+msgid "Civix Export"
+msgstr "Export Civix"
+
+msgid "or"
+msgstr "ou"
+
+msgid "API Explorer"
+msgstr "Explorateur API"
+
+msgid "Include in output"
+msgstr "Inclure dans la sortie"
+
+msgid "Copied to clipboard"
+msgstr "Copié vers le presse-papier"
+
+msgid "Copy to clipboard"
+msgstr "Copier vers le presse-papier"
+
+msgid "Remove"
+msgstr "Retirer"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Unsupported API action: only \"save\" is allowed."
+msgstr "Action API non supportée : uniquement \"enregistrer\" est autorisé."
+
+msgid "No records to import."
+msgstr "Aucun enregistrement à importer."
+
+msgid ""
+"Cannot create %1 %2 because an existing one with the same name already "
+"exists."
+msgstr "Impossible de créer %1 %2 car il en existe déjà un avec le même nom."
+
+msgid "To update existing records, include \"match\" in the API params."
+msgstr ""
+"Pour mettre à jour les contacts existants inclure \"match\" dans les "
+"paramètres de l'API."
+
+msgid "%1 existing %2 will be updated."
+msgstr "%1 %2 existant sera mise à jour."
+
+msgid "%1 new %2 will be created."
+msgstr "%1 nouveau %2 sera créé."
+
+msgid "1 record successfully imported."
+msgstr "1 enregistrement importé avec succès."
+
+msgid "%1 records successfully imported."
+msgstr "%1 enregistrements importés avec succès."
+
+msgid "Processing Error:"
+msgstr "Erreur de traitement :"
+
+msgid ""
+"Search configuration copied from the \"Export\" action can be pasted here."
+msgstr ""
+"Ici vous pouvez coller la configuration de recherche que vous avez copiée "
+"depuis l'action \"Exporter\"."
+
+msgid "Checking input..."
+msgstr "Vérification de l'entrée..."
+
+msgid "Importing Saved Search..."
+msgstr "Importation de la recherche en cours..."
+
+msgid "Import"
+msgstr "Importer"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Includes"
+msgstr "Inclut"
+
+msgid "Has All"
+msgstr "A tout"
+
+msgid "Lacks All"
+msgstr "N'a aucun"
+
+msgid "Current User Permission"
+msgstr "Autorisation de l'utilisateur actuel"
+
+msgid "Check permission of logged-in user"
+msgstr "Vérifier l'autorisation de l'utilisateur connecté"
+
+msgid "Link"
+msgstr "Lien"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Text"
+msgstr "Texte"
+
+msgid "Show if"
+msgstr "Afficher si"
+
+msgid "Style"
+msgstr "Style"
+
+msgid "Normal"
+msgstr "Normal"
+
+msgid "New tab"
+msgstr "Nouvel onglet"
+
+msgid "Popup dialog"
+msgstr "Popup de dialogue"
+
+msgid "Allowed"
+msgstr "Autorisé"
+
+msgid "Always"
+msgstr "Toujours"
+
+msgid "Add..."
+msgstr "Ajouter..."
+
+msgid "Other..."
+msgstr "Autre..."
+
+msgid "Tags"
+msgstr "Tags/Étiquettes"
+
+msgid "Add tag..."
+msgstr "Ajouter le tag/étiquette..."
+
+msgid "Create Tag"
+msgstr "Créer le tag/étiquette"
+
+msgid "Insert Token"
+msgstr "Insérer un champ de fusion"
+
+msgid "And"
+msgstr "Et"
+
+msgid "Or"
+msgstr "Ou"
+
+msgid "Not"
+msgstr "Non"
+
+msgid "%1 group"
+msgstr "%1 groupe"
+
+msgid "Remove group"
+msgstr "Supprimer le groupe"
+
+msgid "Drag to reposition"
+msgstr "Faire glisser pour repositionner"
+
+msgid "Add a subgroup of clauses"
+msgstr "Ajouter un sous-groupe de \"clauses\""
+
+msgid "Add a group of clauses"
+msgstr "Ajouter un groupe de \"clauses\""
+
+msgid "Field"
+msgstr "Champ"
+
+msgid "Aggregate"
+msgstr "Agrégation"
+
+msgid "Comparison"
+msgstr "Comparaison"
+
+msgid "Date"
+msgstr "Date"
+
+msgid "Math"
+msgstr "Mathématique"
+
+msgid "Number"
+msgstr "Numéro"
+
+msgid "Transform field using a function"
+msgstr "Transformer le champ en utilisant une fonction"
+
+msgid "Button Size"
+msgstr "Taille du bouton"
+
+msgid "Large"
+msgstr "Large"
+
+msgid "Regular"
+msgstr "Normal"
+
+msgid "Small"
+msgstr "Petit"
+
+msgid "Tiny"
+msgstr "Minuscule"
+
+msgid "Image"
+msgstr "Image"
+
+msgid "Allow HTML"
+msgstr "Autoriser le HTML"
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Option Format"
+msgstr "Format d'option"
+
+msgid "Raw Value"
+msgstr "Valeur brute"
+
+msgid "Date Format"
+msgstr "Format de la date"
+
+msgid "Date Format: Default"
+msgstr "Format de la date : Défaut"
+
+msgid "Display as clickable link"
+msgstr "Afficher en tant que lien cliquable"
+
+msgid "Open normally"
+msgstr "Ouvrir normalement"
+
+msgid "Tooltip"
+msgstr "Info-bulle"
+
+msgid "Text to display if the field contents are empty."
+msgstr "Texte à afficher si les contenus des champs sont vides."
+
+msgid "Empty placeholder"
+msgstr "Texte fictif vide"
+
+msgid "Change the contents of this field, or combine multiple field values."
+msgstr ""
+"Remplace les contenus de ce champ, ou combine les valeurs de plusieurs "
+"champs."
+
+msgid "Rewrite Text"
+msgstr "Réecrire le texte"
+
+msgid "Show Linebreaks"
+msgstr "Afficher les sauts de ligne"
+
+msgid "Users will be able to click to edit this field."
+msgstr ""
+"Les utilisateurs auront le droit de cliquer pour modifier ce champ sans "
+"sortir de l'affichage en cours."
+
+msgid "In-Place Edit"
+msgstr "Permettre la modification du champ"
+
+msgid "Read-only or rewritten fields cannot be editable."
+msgstr "Les champs en lecture seule ou ré-écrits ne sont pas modifiables."
+
+msgid "HTML to display if the field contents are empty."
+msgstr "HTML à afficher si les contenus des champs sont vides."
+
+msgid "Rewrite HTML"
+msgstr "Réecrire le HTML"
+
+msgid "Width"
+msgstr "Largeur"
+
+msgid "Height"
+msgstr "Hauteur"
+
+msgid "Alt Text"
+msgstr "Texte alternatif"
+
+msgid "Image to display if the field contents are empty."
+msgstr "Image à afficher si les contenus de champ sont vides."
+
+msgid "Alternate image"
+msgstr "Image alternative"
+
+msgid "Specify url path to this image."
+msgstr "Indique l'URL vers cette image."
+
+msgid "Custom image url"
+msgstr "URL de l'image personnalisée"
+
+msgid "Template File"
+msgstr "Fichier modèle"
+
+msgid ""
+"Relative path to the custom template, e.g. \"~/myModule/myTemplate.html\""
+msgstr ""
+"Chemin relatif vers le modèle personnalisé, par exemple \"~/monModule/"
+"monModèle.html\""
+
+msgid "Menu Button Size"
+msgstr "Taille du bouton de menu"
+
+msgid "Outline"
+msgstr "Contour"
+
+msgid "Menu Icon/Text"
+msgstr "Menu Icône/Texte"
+
+msgid "Add/Remove Fields"
+msgstr "Ajouter/retirer des champs"
+
+msgid "Add Links, etc."
+msgstr "Ajouter des liens, etc."
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "Bold"
+msgstr "Gras"
+
+msgid "Italic"
+msgstr "Italique"
+
+msgid "Strikethrough"
+msgstr "Barré"
+
+msgid "CSS class"
+msgstr "Classe CSS"
+
+msgid "Other"
+msgstr "Autre"
+
+msgid "Remove style"
+msgstr "Retirer le style"
+
+msgid "Set background color or text style based on a field value"
+msgstr ""
+"Définir la couleur d'arrière-plan ou le style du texte selon la valeur d'un "
+"champ"
+
+msgid "Choose..."
+msgstr "Choisir..."
+
+msgid "Choose Icon..."
+msgstr "Choisir une icône..."
+
+msgid "Show icon on left or right side of the field"
+msgstr "Afficher l'icône à gauche ou à droite du champ"
+
+msgid "Align left"
+msgstr "Aligner à gauche"
+
+msgid "Align right"
+msgstr "Aligner à droite"
+
+msgid "Remove icon"
+msgstr "Retirer l'icône"
+
+msgid "Add icon(s) to this column"
+msgstr "Ajouter icône(s) à cette colonne"
+
+msgid "Use Pager"
+msgstr "Utiliser une navigation par pages"
+
+msgid "Limit Results"
+msgstr "Limiter les résultats"
+
+msgid "Page Size"
+msgstr "Nombre de résultats par page"
+
+msgid "Adjustable Page Size"
+msgstr "Nombre de résultats par page ajustable"
+
+msgid "Show Count in Pager"
+msgstr "Afficher le total dans la pagination"
+
+msgid "Hide Pager if One Page"
+msgstr "Cacher la pagination s'il n'y a qu'une page"
+
+msgid "Show wireframe placeholder results while waiting for data"
+msgstr "Afficher un masque (placeholder) en attendant les données"
+
+msgid "Loading Placeholders"
+msgstr "Chargement des masques (placeholders)"
+
+msgid "Actions Menu"
+msgstr "Menu d'actions"
+
+msgid "All Enabled"
+msgstr "Toutes activées"
+
+msgid "%1 Enabled"
+msgstr "%1 activée(s)"
+
+msgid "Dropdown"
+msgstr "Liste déroulante"
+
+msgid "Toolbar"
+msgstr "Barre d'outils"
+
+msgid ""
+"Should the search be run immediately, or wait for the user to click a button?"
+msgstr ""
+"Est-ce que la recherche doit être lancée immédiatement, ou attendre que "
+"l'utilisateur clique sur un bouton ?"
+
+msgid "Auto-Run"
+msgstr "Recherche lancée automatiquement"
+
+msgid "Search"
+msgstr "Rechercher"
+
+msgid "Search Button"
+msgstr "Bouton de recherche"
+
+msgid "Search button text"
+msgstr "Texte du bouton de recherche"
+
+msgid "Show Count in Header"
+msgstr "Afficher le nombre de résultats dans l'en-tête"
+
+msgid "Select %1"
+msgstr "Sélectionner %1"
+
+msgid "Label"
+msgstr "Titre"
+
+msgid "Fields"
+msgstr "Champs"
+
+msgid ""
+"The top-most line will be shown as the searchable title (combine multiple "
+"fields using rewrite + tokens)."
+msgstr ""
+"La ligne la plus haute sera affichée comme titre de recherche (combinez "
+"plusieurs champs avec l'option de réecriture et des champs de fusion)."
+
+msgid ""
+"Other lines will be shown below in smaller text, and will not be searchable "
+"(except for ID which is always searchable)."
+msgstr ""
+"Les autres lignes seront affichées ci-dessous dans un texte plus petit et ne "
+"seront pas \"cherchables\" (à l'exception de l'identifiant qui est toujours "
+"cherchable)."
+
+msgid "Description %1:"
+msgstr "Description %1 :"
+
+msgid "Title:"
+msgstr "Titre :"
+
+msgid "MySQL Table"
+msgstr "Table SQL"
+
+msgid "MySQL View"
+msgstr "Vue SQL"
+
+msgid "MySQL Table Expression"
+msgstr "Expression de table MySQL"
+
+msgid "never"
+msgstr "jamais"
+
+msgid "Refresh %1 Table"
+msgstr "Actualiser %1 tableau"
+
+msgid "Refresh contents of the %1 SearchKit entity"
+msgstr "Actualiser le contenu de l'entité %1 SearchKit"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Data Mode"
+msgstr "Mode de données"
+
+msgid "API Name"
+msgstr "Nom de l'API"
+
+msgid "Last refreshed: %1. Click \"Save\" to refresh now."
+msgstr ""
+"Dernière actualisation : %1. Cliquez sur « Enregistrer » pour actualiser "
+"maintenant."
+
+msgid "Checking last refresh date..."
+msgstr "Vérification de la date de la dernière actualisation..."
+
+msgid "Auto-Refresh"
+msgstr "Auto-actualisation"
+
+msgid "API Permission"
+msgstr "Permission de l'API"
+
+msgid "administer CiviCRM"
+msgstr "administrer CiviCRM"
+
+msgid "Permission operator"
+msgstr "Opérateur de la permission"
+
+msgid "Settings"
+msgstr "Paramètres"
+
+msgid "Layout"
+msgstr "Mise en page"
+
+msgid "2 x 2"
+msgstr "2 x 2"
+
+msgid "3 x 3"
+msgstr "3 x 3"
+
+msgid "4 x 4"
+msgstr "4 x 4"
+
+msgid "5 x 5"
+msgstr "5 x 5"
+
+msgid "Should this item display on its own line or inline with other items?"
+msgstr ""
+"Est-ce que cet élément doit s'afficher sur sa propre ligne ou être intégré "
+"sur une seule ligne avec d'autres éléments ?"
+
+msgid "New Line"
+msgstr "Nouvelle ligne"
+
+msgid "Show label even when field is blank"
+msgstr "Afficher le libellé même quand le champ est vide"
+
+msgid "Circles"
+msgstr "Cercles"
+
+msgid "Squares"
+msgstr "Carrés"
+
+msgid "Default (1. 2. 3.)"
+msgstr "Défaut (1. 2. 3.)"
+
+msgid "Uppercase (A. B. C.)"
+msgstr "Majuscule (A. B. C.)"
+
+msgid "Lowercase (a. b. c.)"
+msgstr "Minuscule (a. b. c.)"
+
+msgid "Roman (I. II. III.)"
+msgstr "Chiffres romains (I. II. III.)"
+
+msgid "Bullets"
+msgstr "Puces"
+
+msgid "Numbers"
+msgstr "Chiffres"
+
+msgid "Symbol"
+msgstr "Symbole"
+
+msgid "Row Borders"
+msgstr "Bordures de ligne"
+
+msgid "Column Borders"
+msgstr "Bordures de colonne"
+
+msgid "Even/Odd Stripes"
+msgstr "Alterner le contraste de chaque ligne"
+
+msgid "Sticky Header"
+msgstr "En-tête collant"
+
+msgid "Total"
+msgstr "Total"
+
+msgid "Display Settings"
+msgstr "Paramètres de l'affichage"
+
+msgid "Sorting"
+msgstr "Tri"
+
+msgid "Drag and drop sorting"
+msgstr "Tri par glissé/déposé"
+
+msgid "Show nested hierarchy"
+msgstr "Afficher la hiérarchie imbriquée"
+
+msgid "Should hierarchical tree be collapsible"
+msgstr "L'arborescence hiérarchique doit-il être repliable"
+
+msgid "Not collapsible"
+msgstr "Non repliable"
+
+msgid "Collapsible - Open"
+msgstr "Repliable - ouvert"
+
+msgid "Collapsible - Closed"
+msgstr "Repliable - fermé"
+
+msgid "Text to display if the table is empty."
+msgstr "Texte à afficher si la table est vide."
+
+msgid "No Results Text"
+msgstr "Texte en absence de résultat"
+
+msgid "None found."
+msgstr "Aucun trouvé."
+
+msgid "Table Style"
+msgstr "Style de table"
+
+msgid "Row Style"
+msgstr "Style de ligne"
+
+msgid "Header"
+msgstr "En-tête"
+
+msgid "Footer"
+msgstr "Pied de page"
+
+msgid "Shows grand totals or other statistics, configured per-column."
+msgstr ""
+"Affiche les Grands Totaux ou d'autres statistiques, configurées par colonne."
+
+msgid "Show Totals in Footer"
+msgstr "Afficher les totaux dans le pied de page"
+
+msgid "Single Field"
+msgstr "Champ unique"
+
+msgid "Entire Row"
+msgstr "Ligne entière"
+
+msgid "Disabled (create only)"
+msgstr "Désactivé (créer uniquement)"
+
+msgid "Create a new record using in-place edit."
+msgstr "Créer un nouvel enregistrement en utilisant l'édition en direct."
+
+msgid "Add New Button"
+msgstr "Ajouter un nouveau bouton"
+
+msgid "(no label)"
+msgstr "(pas de libellé)"
+
+msgid "Alignment"
+msgstr "Alignement"
+
+msgid "Left"
+msgstr "Gauche"
+
+msgid "Center"
+msgstr "Centre"
+
+msgid "Right"
+msgstr "Droite"
+
+msgid "Allow user to click on header to sort table by this column"
+msgstr ""
+"Autoriser l'utilisateur à cliquer sur l'en-tête pour trier la table selon "
+"cette colonne"
+
+msgid "Sortable Header"
+msgstr "En-tête triable"
+
+msgid "Footer Label"
+msgstr "Libellé du pied de page"
+
+msgid "Footer Aggregate"
+msgstr "Consolidation en pied de page"
+
+msgid "Footer Rewrite"
+msgstr "Réécrire le pied de page"
+
+msgid ""
+"%1 do not support hierarchical nesting. Consider using a different display "
+"type."
+msgstr ""
+"%1 ne prend pas en charge l'imbrication hiérarchique. Envisagez d'utiliser "
+"un autre type d'affichage."
+
+msgid "Text to display if the tree is empty."
+msgstr "Texte à afficher si l'arborescence est vide."
+
+msgid "Item Style"
+msgstr "Style de l'objet"
+
+msgid ""
+"Drag to reorder columns, click to sort results (shift-click to sort by "
+"multiple)."
+msgstr ""
+"Glisser pour ré-ordonner les colonnes, cliquer pour trier les résultats "
+"(cliquer avec shift pour trier en groupe)"
+
+msgid "Column reserved for smart group."
+msgstr "Colonne réservée pour les groupes dynamiques."
+
+msgid "None Found"
+msgstr "Aucun trouvé"
+
+msgid "Edit search and displays"
+msgstr "Éditer la recherche et les affichages"
+
+msgid "Create a new search based on this one"
+msgstr "Créer une nouvelle requête basée sur celle-ci"
+
+msgid "Edit Template"
+msgstr "Modifier le modèle"
+
+msgid "Edit Search"
+msgstr "Modifier la requête"
+
+msgid "Create from Template"
+msgstr "Créer depuis un modèle"
+
+msgid "Clone Search"
+msgstr "Dupliquer la recherche"
+
+msgid "Create a new template based on this one"
+msgstr "Créer un nouveau modèle basé sur celui-ci"
+
+msgid "Clone Template"
+msgstr "Dupliquer le modèle"
+
+msgid "Save as Template"
+msgstr "Enregistrer comme modèle"
+
+msgid "Export this saved search for sharing or reuse"
+msgstr "Exporter cette recherche sauvegardée pour la partager ou la réutiliser"
+
+msgid "Export Template"
+msgstr "Exporter le modèle"
+
+msgid "Export Search"
+msgstr "Exporter la recherche"
+
+msgid "Delete search along with any displays and forms"
+msgstr "Supprimer la requête ainsi que les affichages et les formulaires liés"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Revert search to its packaged state"
+msgstr ""
+"Réinitialiser la recherche (telle qu'elle est dans l'extension - sans vos "
+"modifications)"
+
+msgid "Revert"
+msgstr "Rétablir"
+
+msgid "1 Communication"
+msgstr "1 Communication"
+
+msgid "%1 Communications"
+msgstr "%1 Communications"
+
+msgid "Edit Scheduled Communication"
+msgstr "Modifier les rappels programmés"
+
+msgid "Add Scheduled Communication"
+msgstr "Ajouter un rappel programmé"
+
+msgid "New Communication"
+msgstr "Nouveau rappel programmé"
+
+msgid ""
+"Welcome to SearchKit. Click the New Search button above to start composing "
+"your first search."
+msgstr ""
+"Bienvenue sur Search Kit. Cliquer sur le bouton Nouvelle recherche pour "
+"créer votre première requête."
+
+msgid "No Saved Searches match filter criteria."
+msgstr "Aucune recherche ne correspond aux critères."
+
+msgid "Revert this search to its packaged settings?"
+msgstr ""
+"Réinitialiser cette recherche telle qu'elle était à l'installation de "
+"l'extension ?"
+
+msgid "Permanently delete this saved search?"
+msgstr "Supprimer définitivement cette recherche ?"
+
+msgid "Includes 1 display which will also be reverted."
+msgstr "Inclut 1 affichage qui va aussi être rétabli."
+
+msgid "Includes %1 displays which will also be reverted."
+msgstr "Inclut %1 affichages qui vont aussi être rétablis."
+
+msgid "Smart group \"%1\" will be reset to the packaged search criteria."
+msgstr ""
+"Le groupe dynamique \"%1\" sera réinitialisé selon les critères de la "
+"requête empaquetée."
+
+msgid ""
+"Form \"%1\" will be affected because it contains an embedded display from "
+"this search."
+msgstr ""
+"Le formulaire %1 va être être affecté car il contient un affichage embarqué "
+"depuis cette recherche."
+
+msgid "Includes 1 display which will also be deleted."
+msgstr "Inclut 1 affichage qui sera aussi supprimé."
+
+msgid "Includes %1 displays which will also be deleted."
+msgstr "Inclut %1 affichages qui seront aussi supprimés."
+
+msgid "Smart group \"%1\" will also be deleted."
+msgstr "Le groupe dynamique %1 sera aussi supprimé."
+
+msgid "Communication \"%1\" will also be deleted."
+msgstr "Le rappel programmé « %1 » sera également supprimé."
+
+msgid ""
+"Form \"%1\" will also be deleted because it contains an embedded display "
+"from this search."
+msgstr ""
+"Le formulaire %1 va être aussi être affecté car il contient un affichage "
+"embarqué depuis cette recherche."
+
+msgid "Revert %1"
+msgstr "Rétablir %1"
+
+msgid "Deleting..."
+msgstr "En cours de suppression..."
+
+msgid "Search Deleted"
+msgstr "Recherche supprimée"
+
+msgid "Reverting..."
+msgstr "Rétablissement..."
+
+msgid "Search Reverted"
+msgstr "Recherche rétablie"
+
+msgid "Edit Label"
+msgstr "Modifier le titre"
+
+msgid "Edit Description"
+msgstr "Modifier la description"
+
+msgid "Missing"
+msgstr "Manquant"
+
+msgid "Displays"
+msgstr "Affichages"
+
+msgid "Forms"
+msgstr "Formulaires"
+
+msgid "Communications"
+msgstr "Rappels programmés"
+
+msgid "Package"
+msgstr "Paquet"
+
+msgid "Modified"
+msgstr "Modifié"
+
+msgid "Whether and when a search was modified from its packaged settings"
+msgstr ""
+"Si et quand une recherche a été modifiée par rapport à ses paramètres "
+"d'origine"
+
+msgid "%1 by %2"
+msgstr "%1 par %2"
+
+msgid "Created"
+msgstr "Créé"
+
+msgid "0 Displays"
+msgstr "0 Affichages"
+
+msgid "Saved Searches"
+msgstr "Recherches enregistrées"
+
+msgid "Data Segmentation"
+msgstr "Segments de données"
+
+msgid "New Template"
+msgstr "Nouveau modèle"
+
+msgid "New Search"
+msgstr "Nouvelle recherche"
+
+msgid "Choose other entities on the search screen"
+msgstr "Choisir d'autres entités sur l'onglet de la requête"
+
+msgid "More..."
+msgstr "Plus..."
+
+msgid "New Data Segment"
+msgstr "Nouveau segment de données"
+
+msgid "Filter by label..."
+msgstr "Filtrer par titre..."
+
+msgid "Filter by author..."
+msgstr "Filtrer par auteur..."
+
+msgid "Filter by package..."
+msgstr "Filtrer par paquet..."
+
+msgid "Filter by entity..."
+msgstr "Filtrer par entité..."
+
+msgid "Filter by tags..."
+msgstr "Filtrer par tags/étiquettes..."
+
+msgid "Name of the new computed search field."
+msgstr "Nom du nouveau champ de recherche calculé."
+
+msgid "For"
+msgstr "Pour"
+
+msgid "Items"
+msgstr "Éléments"
+
+msgid "Conditions"
+msgstr "Conditions"
+
+msgid "Default Item"
+msgstr "Elément par défaut"
+
+msgid "Add Item"
+msgstr "Ajouter un élément"
+
+msgid "Edit Data Segment"
+msgstr "Modifier le segment de données"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Segment Deleted"
+msgstr "Segment supprimé"
+
+msgid "Group will be deleted."
+msgstr "Le groupe sera supprimé."
+
+msgid "Undelete"
+msgstr "Dé-supprimer"
+
+msgid "Display will be deleted."
+msgstr "L'affichage sera supprimé."
+
+msgid "Clone display"
+msgstr "Dupliquer l'affichage"
+
+msgid "Smart group of contacts based on search results"
+msgstr "Groupe dynamique des contacts basé sur les résultats de la requête"
+
+msgid "Display"
+msgstr "Affichage"
+
+msgid "Custom Searches"
+msgstr "Mes recherches personnalisées"
+
+msgid "Packaged Searches"
+msgstr "Recherches d'origine"
+
+msgid "Search Templates"
+msgstr "Rechercher parmi les modèles"
+
+msgid "Other less-commonly searched entities"
+msgstr "Entités moins fréquemment utilisées"
+
+msgid "Icon Picker"
+msgstr "Sélectionneur d'icône"
+
+msgid "%1 selected of 1 result"
+msgstr "%1 sélectionnés sur 1 résultat"
+
+msgid "1 result"
+msgstr "1 résultat"
+
+msgid "%1 selected of %2 results"
+msgstr "%1 sélectionné sur %2 résultats"
+
+msgid "%1 results"
+msgstr "%1 résultats"
+
+msgid "Bulk row actions"
+msgstr "Actions en masse sur les lignes"
+
+msgid "Click to sort results (shift-click to sort by multiple)."
+msgstr ""
+"Cliquer pour trier les résultats (cliquer sur shift pour en trier plusieurs)."
+
+msgid "Drag columns to reposition"
+msgstr "Glisser les colonnes pour repositionner"
+
+msgid "Select none"
+msgstr "La sélection est vide"
+
+msgid "Select all"
+msgstr "Tout sélectionner"
+
+msgid "Select All rows or this pages rows"
+msgstr "Sélectionner Toutes les lignes ou les lignes de cette page"
+
+msgid "All"
+msgstr "Tous"
+
+msgid "This Page"
+msgstr "Cette page"
+
+msgid "Show sub-rows"
+msgstr "Afficher les lignes indentées"
+
+msgid "%1% Complete"
+msgstr "%1% terminé"
+
+msgid "Processing records %1 - %2"
+msgstr "Enregistrements %1 - %2 en cours"
+
+msgid "Pick Date"
+msgstr "Choisissez une date"
+
+msgid "Date Range"
+msgstr "Plage de dates"
+
+msgid "Now"
+msgstr "Maintenant"
+
+msgid "Before now"
+msgstr "Avant maintenant"
+
+msgid "After now"
+msgstr "Après maintenant"
+
+msgid "Second"
+msgstr "Second"
+
+msgid "Seconds"
+msgstr "Secondes"
+
+msgid "Minute"
+msgstr "Minute"
+
+msgid "Minutes"
+msgstr "Minutes"
+
+msgid "Hour"
+msgstr "Heure"
+
+msgid "Hours"
+msgstr "Heures"
+
+msgid "Day"
+msgstr "Jour"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Week"
+msgstr "Semaine"
+
+msgid "Weeks"
+msgstr "Semaines"
+
+msgid "Month"
+msgstr "Mois"
+
+msgid "Months"
+msgstr "Mois"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Years"
+msgstr "Ans"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Distance"
+msgstr "Distance"
+
+msgid "Km"
+msgstr "Km"
+
+msgid "Miles"
+msgstr "Miles"
+
+msgid "Street, City, State, Country"
+msgstr "Rue, Ville, Etat/Dépt, Pays"
+
+msgid "%1 Complete"
+msgstr "%1% terminé"
+
+msgid "Error"
+msgstr "Erreur"
+
+msgid "%1 has been downloaded to your computer."
+msgstr "%1 a été téléchargé sur votre ordinateur."
+
+msgid "Download Complete"
+msgstr "Téléchargement terminé"
+
+msgid "Download %1 %2"
+msgstr "Télécharger %1 %2"
+
+msgid "Generic Spreadsheet (.csv)"
+msgstr "Générique (.csv)"
+
+msgid "Microsoft Excel (.xlsx)"
+msgstr "Microsoft Excel (.xlsx)"
+
+msgid "OpenDocument Spreadsheet (.ods)"
+msgstr "OpenDocument (.ods)"
+
+msgid "PDF Document (.pdf)"
+msgstr "Document PDF (.pdf)"
+
+msgid "Downloading..."
+msgstr "Téléchargement..."
+
+msgid "Download"
+msgstr "Télécharger"
+
+msgid "An error occurred while attempting to create mailing."
+msgstr ""
+"Une erreur est survenue pendant la tentative de création de l'envoi du "
+"mailing."
+
+msgid ""
+"Compose and send a mass-mailing to the %1 selected contacts (you will be "
+"able to add or exclude additional groups of contacts in the next step)."
+msgstr ""
+"Créez et envoyez un mailing aux %1 contacts sélectionnés (vous pourrez "
+"ajouter ou exclure des groupes de contacts supplémentaires à l'étape "
+"suivante)."
+
+msgid "Mailing Name"
+msgstr "Nom du mailing"
+
+msgid "Checking recipients..."
+msgstr "Vérification des destinataires..."
+
+msgid ""
+"None of the selected contacts are eligible to receive mailings (due to lack "
+"of email address or unsubscribe status)."
+msgstr ""
+"Aucun des contacts sélectionnés n'est éligible pour recevoir des mailings "
+"(en raison de l'absence d'adresse électronique ou du statut de "
+"désinscription)."
+
+msgid ""
+"%1 of the selected contacts cannot receive mailings (due to lack of email "
+"address or unsubscribe status)."
+msgstr ""
+"%1 des contacts sélectionnés ne peuvent pas recevoir de mailings (en raison "
+"de l'absence d'adresse électronique ou du statut de désinscription)."
+
+msgid "All of the selected contacts have active email addresses."
+msgstr "Tous les contacts sélectionnés ont des adresses électroniques actives."
+
+msgid "Creating mailing..."
+msgstr "Création de la campagne de mailing en cours..."
+
+msgid "Adding contacts..."
+msgstr "Ajoute les contacts..."
+
+msgid "Create Mailing"
+msgstr "Créer un mailing"
+
+msgid "1 tag removed."
+msgstr "1 étiquette retirée."
+
+msgid "%1 tags removed."
+msgstr "%1 étiquettes retirées."
+
+msgid "1 tag added"
+msgstr "1 étiquette ajoutée"
+
+msgid "%1 tags added."
+msgstr "%1 étiquettes ajoutées."
+
+msgid "1 tag already exists and was not added."
+msgstr "1 étiquette existe déjà et n'a pas été ajoutée."
+
+msgid "%1 tags already exist and were not added."
+msgstr "%1 étiquettes existent déjà et n'ont pas été ajoutées."
+
+msgid "An error occurred while updating tags."
+msgstr "Une erreur est survenue pendant la mise à jour des tags/étiquettes."
+
+msgid "Add Tags"
+msgstr "Ajouter des étiquettes"
+
+msgid "Remove Tags"
+msgstr "Retirer des tags/étiquettes"
+
+msgid "Select tags"
+msgstr "Sélectionner des tags/étiquettes"
+
+msgid "Adding tags..."
+msgstr "Ajoute les étiquettes..."
+
+msgid "Removing tags..."
+msgstr "Retire les tags/étiquettes..."
+
+msgid "Add tags"
+msgstr "Ajouter des étiquettes"
+
+msgid "Remove tags"
+msgstr "Retirer des tags/étiquettes"
+
+msgid "Successfully updated %1 %2."
+msgstr "Mise à jour %1 %2 réussie."
+
+msgid "An error occurred while attempting to update %1 %2."
+msgstr "Une erreur est survenue lors de la tentative de mise à jour de %1 %2."
+
+msgid "Update the %1 selected %2 with the following values:"
+msgstr "Mettre à jour le %1 sélectionné %2 avec les valeurs suivantes :"
+
+msgid "Add Value"
+msgstr "Ajouter une valeur"
+
+msgid "Updating %1 %2..."
+msgstr "Mise à jour %1 %2..."
+
+msgid "Perform action on selected items."
+msgstr "Réaliser l'action sur les items sélectionnés."
+
+msgid "Action"
+msgstr "Action"
+
+msgid "Perform action on %1 %2"
+msgstr "Réaliser l'action sur %1 %2"
+
+msgid "Perform action on all %1"
+msgstr "Réaliser l'action sur tous %1"
+
+msgid "Selected number must be %1"
+msgstr "Le numéro sélectionné doit être %1"
+
+msgid "Search Display Type"
+msgstr "Type d'affichage"
+
+msgid "Table"
+msgstr "Table"
+
+msgid ""
+"A table displays results in rows and columns, with an optional pager and "
+"selectable actions. The styling of rows and columns is highly configurable."
+msgstr ""
+"Les résultats s'affichent sous forme de tableau, avec des lignes et des "
+"colonnes, et une pagination optionnelle ainsi qu'une liste d'actions. Le "
+"style des lignes et des colonnes est configurable à souhait."
+
+msgid "List"
+msgstr "Liste"
+
+msgid ""
+"Lists are highly flexible and display results on one or more lines. Each "
+"field can be styled differently or given a custom css class."
+msgstr ""
+"Les listes affichent les résultats sur une ou plusieurs lignes et sont "
+"complétement paramétrables. Chaque champ peut être stylé différemment, "
+"notamment via des classes CSS personnalisées."
+
+msgid "Grid"
+msgstr "Grille"
+
+msgid ""
+"Grid displays are useful for image gallery thumbnails and other content to "
+"show side-by side."
+msgstr ""
+"Les Grilles sont un affichage idéal pour une galerie de photos/vignettes et "
+"les autres contenus qui nécessitent d'être affichés côte à côte."
+
+msgid "Tree"
+msgstr "Arborescence"
+
+msgid "Tree displays are used to represent hierarchical data."
+msgstr ""
+"Les arborescences sont utilisées pour représenter des données hiérarchiques."
+
+msgid "Autocomplete"
+msgstr "Auto-complétion"
+
+msgid ""
+"Autocompletes are form fields that give results from this search as the user "
+"types. Creating a display is optional and allows customization of how each "
+"result appears in the dropdown."
+msgstr ""
+"Dans vos formulaires, les champs \"Autocomplete\" permettent d'afficher les "
+"résultats de cette requête à la volée. Créer un affichage est facultatif, "
+"cela permet de choisir comment précisément chaque résultat apparaitra dans "
+"la liste (dropdown)."
+
+msgid "DB Entity"
+msgstr "Entité de la base de données"
+
+msgid ""
+"Saves the search results in a database table which can be accessed with "
+"SearchKit, the API, or SQL-based tools."
+msgstr ""
+"Enregistre les résultats de la recherche dans une table de base de données à "
+"laquelle on peut accéder avec SearchKit, l'API ou des outils basés sur SQL."
+
+msgid "Search Display"
+msgstr "Affichage"
+
+msgid "Search Displays"
+msgstr "Affichages"
+
+msgid "SearchKit - saved search displays"
+msgstr "SearchKit - affichage des recherches sauvegardées"
+
+msgid "Search Display ID"
+msgstr "Id. de l'affichage"
+
+msgid "Unique SearchDisplay ID"
+msgstr "Id. unique de l'affichage"
+
+msgid "Search Display Name"
+msgstr "Nom de l'affichage"
+
+msgid "Unique name for identifying search display"
+msgstr "Nom unique de l'affichage"
+
+msgid "Search Display Label"
+msgstr "Titre de l'affichage"
+
+msgid "Label for identifying search display to administrators"
+msgstr "Titre (admin) de l'affichage"
+
+msgid "Saved Search ID"
+msgstr "Id. de la recherche"
+
+msgid "FK to saved search table."
+msgstr "Clé étrangère vers la table de la recherche."
+
+msgid "Type of display"
+msgstr "Type d'affichage"
+
+msgid "Search Display Settings"
+msgstr "Paramètres de l'affichage"
+
+msgid "Configuration data for the search display"
+msgstr "Données de configuration de l'affichage"
+
+msgid "Bypass ACL Permissions"
+msgstr "Outrepasser les permissions ACL"
+
+msgid "Skip permission checks and ACLs when running this display."
+msgstr "Ignorer les contrôles d'autorisation et d'ACLs pour cet affichage."
+
+msgid "Search Segment"
+msgstr "Segment de recherche"
+
+msgid "Search Segments"
+msgstr "Segments de recherche"
+
+msgid "Data segmentation sets for searches."
+msgstr "Ensembles de segmentation des données pour les recherches."
+
+msgid "Search Segment ID"
+msgstr "Id. du segment de recherche"
+
+msgid "Unique SearchSegment ID"
+msgstr "Id. unique du segment de recherche"
+
+msgid "Search Segment Name"
+msgstr "Nom du segment de recherche"
+
+msgid "Unique name"
+msgstr "Nom unique"
+
+msgid ""
+"Label for identifying search segment (will appear as name of calculated "
+"field)"
+msgstr ""
+"Titre du segment de recherche (apparaîtra comme libellé du champ calculé)"
+
+msgid ""
+"Description will appear when selecting SearchSegment in the fields dropdown."
+msgstr ""
+"La description apparait à la sélection du segment de recherche dans le menu "
+"déroulant."
+
+msgid "Entity for which this set is used."
+msgstr "Entité concernée par ce segment."
+
+msgid "All items in set"
+msgstr "Tous les éléments du segment"
+
+msgid "SearchKit: edit and delete searches"
+msgstr "SearchKit : modifier et supprimer des recherches"
+
+msgid ""
+"Gives non-admin users access to the SearchKit UI to create, update and "
+"delete searches and displays"
+msgstr ""
+"Donne accès à l'interface de SearchKit aux utilisateurs qui ne sont pas "
+"Admin pour créer, mettre à jour et supprimer des requêtes et des affichages"
+
+msgid ""
+"Unlike the WHERE clause which filters data in the database, HAVING filters "
+"the results shown in the table. This allows filtering of aggregate data or "
+"field transformations."
+msgstr ""
+"Contrairement à la clause WHERE qui filtre les données dans la base de "
+"données, HAVING filtre les résultats affichés dans le tableau. Cela permet "
+"de filtrer les données agrégées ou les transformations de champs."
+
+msgid ""
+"Note: Rewrite occurs after HAVING has been applied, so does not affect the "
+"HAVING filter."
+msgstr ""
+"Remarque : la réécriture intervient après l'application du filtre HAVING et "
+"n'a donc pas d'incidence sur ce dernier."
+
+msgid "Both search tokens and smarty tags are supported when rewriting fields."
+msgstr ""
+"Les jetons de recherche et les balises smarty sont pris en charge lors de la "
+"réécriture des champs."
+
+msgid ""
+"SMARTY conditions can be used by placing quotations around the values that "
+"should be evaluated."
+msgstr ""
+"Les conditions SMARTY peuvent être utilisées en plaçant des guillemets "
+"autour des valeurs à évaluer."
+
+msgid ""
+"To preserve newlines entered into the rewrite textarea, click \"Show "
+"Linebreaks\" below."
+msgstr ""
+"Pour préserver les nouvelles lignes saisies dans la zone de réécriture de "
+"texte, cliquez sur « Afficher les sauts de ligne » ci-dessous."
+
+msgid ""
+"Display multi-line text with linebreaks preserved. This is useful for "
+"textarea fields such as notes, or multi-line rewrites."
+msgstr ""
+"Afficher du texte sur plusieurs lignes en préservant les sauts de ligne. "
+"Ceci est utile pour les champs de type textarea tels que les notes, ou les "
+"réécritures sur plusieurs lignes."
+
+msgid "Set the permission level needed to view this entity."
+msgstr ""
+"Définir le niveau d'autorisation nécessaire pour visualiser cette entité."
+
+msgid ""
+"Users without this permission will not be able to see this entity in "
+"SearchKit nor in any search queries or displays that use this entity."
+msgstr ""
+"Les utilisateurs ne disposant pas de cette autorisation ne pourront pas voir "
+"cette entité dans SearchKit, ni dans les requêtes de recherche ou les "
+"affichages qui utilisent cette entité."
+
+msgid ""
+"Determine which data-storage features to use when generating this entity."
+msgstr ""
+"Déterminer les caractéristiques de stockage des données à utiliser lors de "
+"la création de cette entité."
+
+msgid ""
+"<strong>MySQL Table</strong>: Create a persistent MySQL table and re-fill it "
+"periodically."
+msgstr ""
+"<strong>Table MySQL</strong> : Créer une table MySQL persistante et la "
+"remplir périodiquement."
+
+msgid ""
+"<strong>MySQL View</strong>: Create a persistent MySQL view. Better suited "
+"to volatile data with a stable data-structure. Better suited to targeted "
+"data-access but not to analytics."
+msgstr ""
+"<strong> Vue MySQL</strong>: Créer une vue MySQL persistante. Mieux adapté "
+"aux données volatiles avec une structure de données stable. Mieux adapté à "
+"l'accès ciblé aux données, mais pas à l'analyse."
+
+msgid ""
+"<strong>MySQL CTE</strong>: Create dynamic MySQL query using Common Table "
+"Expression. Better suited to volatile "
+msgstr ""
+"<strong>CTE MySQL</strong> : Créer une requête MySQL dynamique à l'aide de "
+"l'expression de table commune. Mieux adapté aux requêtes volatiles "
+
+msgid "Attachments"
+msgstr "Pièce(s) jointe(s)"
+
+msgid "Email - schedule/send via CiviMail"
+msgstr "Courriel - programmer/envoyer via CiviMail"
+
+msgid "Contact ID"
+msgstr "Id. du contact"
+
+msgid "Preview %1"
+msgstr "Prévisualiser %1"
+
+msgid "Edit %1"
+msgstr "Modifier %1"
+
+msgid "Move %1"
+msgstr "Déplacer %1"
+
+msgid "Field Transformations"
+msgstr "Transformations de champ"
+
+msgid " (copy)"
+msgstr "(copie)"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Add %1"
+msgstr "Ajouter %1"
+
+msgid "API Explorer Export"
+msgstr "Exporter l'explorateur d'API"
+
+msgid "Has"
+msgstr "A"
+
+msgid "Lacks"
+msgstr "N'a pas"
+
+msgid "Display a button for creating a new record"
+msgstr "Pour créer un enregistrement, afficher un bouton Nouveau"
+
+msgid "\"Add New\" Button"
+msgstr "Bouton \"Ajouter Nouveau\""
+
+msgid "Path"
+msgstr "Chemin"
+
+msgid "Enable Actions"
+msgstr "Permettre de lancer des actions"
+
+msgid "Clone..."
+msgstr "Dupliquer..."
+
+msgid "Export this saved search to a file"
+msgstr "Exporter cette recherche vers un fichier"
+
+msgid "Export..."
+msgstr "Exporter..."
+
+msgid "Delete..."
+msgstr "Supprimer..."
+
+msgid "Revert..."
+msgstr "Rétablissement..."
+
+msgid "Compose Search"
+msgstr "Modifier la requête"
+
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+msgid "Removed tags from %1 %2."
+msgstr "Tags/Étiquettes retirés de %1 %2."
+
+msgid "Added tags to %1 %2."
+msgstr "Tags/Étiquettes ajoutés à %1 %2."

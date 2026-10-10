@@ -1,0 +1,1120 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-08 15:33+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "FormBuilder"
+msgstr "FormBuilder"
+
+msgid "Edit %1 in FormBuilder"
+msgstr "Modifier %1 dans FormBuilder"
+
+msgid "Edit %1 in SearchKit"
+msgstr "Modifier %1 dans SearchKit"
+
+msgid "Submission Forms"
+msgstr "Formulaires de soumission"
+
+msgid "Search Forms"
+msgstr "Formulaires de recherche"
+
+msgid "Field Blocks"
+msgstr "Blocs de champ"
+
+msgid "System Forms"
+msgstr "Formulaires système"
+
+msgid "Existing %1"
+msgstr "%1 existant"
+
+msgid "Content Block"
+msgstr "Bloc de contenu"
+
+msgid "Container"
+msgstr "Conteneur"
+
+msgid "Text box"
+msgstr "Texte"
+
+msgid "Enter text"
+msgstr "Saisir un texte"
+
+msgid "Rich content"
+msgstr "Contenu enrichi"
+
+msgid "Submit Button"
+msgstr "Bouton de soumission"
+
+msgid "Submit"
+msgstr "Envoyer"
+
+msgid "Save Draft Button"
+msgstr "Bouton enregistrer le brouillon"
+
+msgid "Save Draft"
+msgstr "Enregistrer le brouillon"
+
+msgid "Reset Button"
+msgstr "Bouton Réinitialiser"
+
+msgid "Reset"
+msgstr "Réinitialiser"
+
+msgid "Fieldset"
+msgstr "Ensemble de champs"
+
+msgid "Enter title"
+msgstr "Saisir un titre"
+
+msgid "Default"
+msgstr "Défaut"
+
+msgid "Primary"
+msgstr "Principal"
+
+msgid "Success"
+msgstr "Succès"
+
+msgid "Info"
+msgstr "Info"
+
+msgid "Warning"
+msgstr "Avertissement"
+
+msgid "Danger"
+msgstr "Danger"
+
+msgid "Choose Date Range"
+msgstr "Choisir une plage de date"
+
+msgid "org.civicrm.afform_admin"
+msgstr "org.civicrm.afform_admin"
+
+msgid "Reverting..."
+msgstr "Rétablissement..."
+
+msgid "Deleting..."
+msgstr "En cours de suppression..."
+
+msgid "Deleted"
+msgstr "Supprimé"
+
+msgid "Filter:"
+msgstr "Filtrer :"
+
+msgid "New %1"
+msgstr "Nouveau %1"
+
+msgid "None Found"
+msgstr "Aucun trouvé"
+
+msgid "Click to sort"
+msgstr "Cliquer pour trier"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Page"
+msgstr "Page"
+
+msgid "Placement"
+msgstr "Positionnement"
+
+msgid "Status"
+msgstr "État"
+
+msgid "Submissions"
+msgstr "Soumissions"
+
+msgid "Package"
+msgstr "Paquet"
+
+msgid "Tags"
+msgstr "Tags/Étiquettes"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Closed"
+msgstr "Fermé"
+
+msgid "%1 remaining"
+msgstr "%1 restant"
+
+msgid "1 Submission"
+msgstr "1 soumission"
+
+msgid "%1 Submissions"
+msgstr "%1 soumissions"
+
+msgid "Last submitted: %1"
+msgstr "Dernier soumis : %1"
+
+msgid "Edit"
+msgstr "Modifier"
+
+msgid "Clone"
+msgstr "Dupliquer"
+
+msgid "Revert"
+msgstr "Restaurer"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Any Status"
+msgstr "Tous les statuts"
+
+msgid "And"
+msgstr "Et"
+
+msgid "Or"
+msgstr "Ou"
+
+msgid "Not"
+msgstr "Non"
+
+msgid "%1 group"
+msgstr "%1 groupe"
+
+msgid "Remove group"
+msgstr "Supprimer le groupe"
+
+msgid "Drag to reposition"
+msgstr "Faire glisser pour repositionner"
+
+msgid "Add a subgroup of clauses"
+msgstr "Ajouter un sous-groupe de \"clauses\""
+
+msgid "Add a group of clauses"
+msgstr "Ajouter un groupe de \"clauses\""
+
+msgid "Select field"
+msgstr "Sélectionner le champ"
+
+msgid "Contains"
+msgstr "Contient"
+
+msgid "Doesn't Contain"
+msgstr "Ne contient pas"
+
+msgid "Is One Of"
+msgstr "Est l'un de"
+
+msgid "Not One Of"
+msgstr "N'est pas l'un de"
+
+msgid "Is Like"
+msgstr "Est comme (like)"
+
+msgid "Not Like"
+msgstr "N'est pas comme (not like)"
+
+msgid "Is Empty"
+msgstr "Est vide"
+
+msgid "Not Empty"
+msgstr "N'est pas vide"
+
+msgid "Element will be shown if"
+msgstr "L'élément sera affiché si"
+
+msgid "If"
+msgstr "Si"
+
+msgid "Apply Changes"
+msgstr "Appliquer les changements"
+
+msgid "Multiple"
+msgstr "Multiple"
+
+msgid "Single"
+msgstr "Unique"
+
+msgid "Toggle multi or single block"
+msgstr "Basculer le bloc simple ou multiple"
+
+msgid "Customize options"
+msgstr "Personnaliser les options"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Done"
+msgstr "Terminé"
+
+msgid "Remove option"
+msgstr "Retirer l'option"
+
+msgid "Deleted options"
+msgstr "Options supprimées"
+
+msgid "Restore option"
+msgstr "Rétablir l'option"
+
+msgid "User-Based"
+msgstr "Basé sur l'Utilisateur"
+
+msgid "Inherit permissions based on the current user or role"
+msgstr "Hérite des autorisations basé sur l'utilisateur courant ou le rôle"
+
+msgid "Form-Based"
+msgstr "Basé sur le formulaire"
+
+msgid "Allow access to any fields listed on the form"
+msgstr "Autorise l'accès à tous les champs listés dans ce formulaire."
+
+msgid "Form has not been saved."
+msgstr "Le formulaire n'a pas été enregistré."
+
+msgid "(copy)"
+msgstr "(copie)"
+
+msgid "FormBuilder: %1"
+msgstr "Form Builder : %1"
+
+msgid "Untitled"
+msgstr "Sans titre"
+
+msgid "Undo (Ctrl-Z)"
+msgstr "Annuler (Ctrl+Z)"
+
+msgid "Redo (Ctrl-Shift-Z)"
+msgstr "Refaire (Ctrl+Maj+Z)"
+
+msgid "View Page"
+msgstr "Consulter la page"
+
+msgid "Saved"
+msgstr "Enregistré"
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "Saving..."
+msgstr "Enregistrement en cours..."
+
+msgid "Form Layout"
+msgstr "Mise en page du formulaire"
+
+msgid "Markup"
+msgstr "Balise"
+
+msgid "This is a read-only preview of the auto-generated markup."
+msgstr ""
+"Ceci est la prévisualisation en lecture seule de la balise auto-générée."
+
+msgid "Form Settings"
+msgstr "Paramètres du formulaire"
+
+msgid "Add Entity"
+msgstr "Ajouter une entité"
+
+msgid "Add Search"
+msgstr "Ajouter une recherche"
+
+msgid "%1 Fields"
+msgstr "%1 champs"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Fieldset for %1"
+msgstr "Ensemble de champs pour %1"
+
+msgid "Values:"
+msgstr "Valeurs :"
+
+msgid "Current Date"
+msgstr "Date du jour"
+
+msgid "Pick Date"
+msgstr "Choisissez une date"
+
+msgid "Add value"
+msgstr "Ajouter une valeur"
+
+msgid "Add:"
+msgstr "Ajouter :"
+
+msgid "Search fields"
+msgstr "Recherche des champs"
+
+msgid "Elements"
+msgstr "Éléments"
+
+msgid "Blocks"
+msgstr "Blocs"
+
+msgid "Remove %1"
+msgstr "Supprimer %1"
+
+msgid "Options"
+msgstr "Options"
+
+msgid "- select -"
+msgstr "- sélectionner -"
+
+msgid "Yes"
+msgstr "Oui"
+
+msgid "No"
+msgstr "Non"
+
+msgid "Background:"
+msgstr "Arrière-plan :"
+
+msgid "No border"
+msgstr "Pas de bordure"
+
+msgid "Solid"
+msgstr "Pleine"
+
+msgid "Dotted"
+msgstr "Pointillé"
+
+msgid "Dashed"
+msgstr "Tiret"
+
+msgid "Double"
+msgstr "Double"
+
+msgid "Groove"
+msgstr "Volume sortant"
+
+msgid "Ridge"
+msgstr "Volume entrant"
+
+msgid "Inset"
+msgstr "Inset"
+
+msgid "Outset"
+msgstr "Outset"
+
+msgid "Collapsed"
+msgstr "Replié"
+
+msgid "Panel Pane"
+msgstr "Panneau volet"
+
+msgid "Style:"
+msgstr "Style :"
+
+msgid "None"
+msgstr "Aucun"
+
+msgid "Calculated Fields"
+msgstr "Champs calculés"
+
+msgid "Filters:"
+msgstr "Filtres :"
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Value"
+msgstr "Valeur"
+
+msgid "Contact being Viewed"
+msgstr "Contact qui est vu"
+
+msgid "Url variable"
+msgstr "Variable d'URL"
+
+msgid "Fixed value"
+msgstr "Valeur fixe"
+
+msgid "Append %1 to the URL to pass a parameter value to the form"
+msgstr "Ajouter %1 à l'URL pour passer un paramètre au formulaire"
+
+msgid "Add filter"
+msgstr "Ajouter un filtre"
+
+msgid "Remember Filters"
+msgstr "Se rappeler des filtres"
+
+msgid ""
+"Filter fields will retain their value when the same user revisits the form."
+msgstr ""
+"Les champs de filtrage conservent leur valeur lorsque le même utilisateur "
+"consulte à nouveau le formulaire."
+
+msgid "Insert Token"
+msgstr "Insérer un champ de fusion"
+
+msgid "ID"
+msgstr "Id."
+
+msgid "Submission JWT"
+msgstr "Soumission JWT"
+
+msgid "Select %1"
+msgstr "Sélectionner %1"
+
+msgid "Public title (usually displayed at the top of the form)."
+msgstr "Titre public (généralement affiché en haut du formulaire)"
+
+msgid "Required"
+msgstr "Requis"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Internal note about the form's purpose (not displayed on form)."
+msgstr ""
+"Note interne à propos de l'objectif du formulaire (n'est pas affichée sur le "
+"formulaire)."
+
+msgid "Permission"
+msgstr "Autorisation"
+
+msgid "What permission is required to use this form?"
+msgstr "Quelle autorisation est requise pour utiliser ce formulaire ?"
+
+msgid ""
+"Join multiple permissions with \"And\" to require all, or \"Or\" to require "
+"at least one."
+msgstr ""
+"Joindre plusieurs autorisations avec « Et » pour les exiger toutes, ou « Ou "
+"» pour en exiger au moins une."
+
+msgid "Page Route"
+msgstr "Chemin de la page"
+
+msgid "Path must begin with &quot;civicrm/&quot;"
+msgstr "Le chemin doit commencer avec &quot;civicrm/&quot;"
+
+msgid "Expose the form as a standalone webpage. (Example: \"civicrm/my-form\")"
+msgstr ""
+"Afficher le formulaire comme une page web autonome. (Exemple : \"civicrm/mon-"
+"formulaire\")"
+
+msgid "Accessible on front-end of website"
+msgstr "Accessible depuis l'interface publique du site web"
+
+msgid "Add to Navigation Menu"
+msgstr "Ajouter au Menu de navigation"
+
+msgid "Loading menu items"
+msgstr "Chargement du menu"
+
+msgid "Top Level"
+msgstr "Niveau le plus haut"
+
+msgid "Order"
+msgstr "Ordre"
+
+msgid "Requires a page route"
+msgstr "Nécessite un chemin pour la page"
+
+msgid "Icon"
+msgstr "Icône"
+
+msgid "Expose To"
+msgstr "Exposer à"
+
+msgid "Additional contexts in which the form can be embedded."
+msgstr ""
+"Contextes supplémentaires dans lesquels le formulaire peut être intégré."
+
+msgid "%1 placement requires a page route."
+msgstr "Le placement %1 nécessite un itinéraire de page."
+
+msgid ""
+"Tags can be used to keep track of your forms if Used For is set to include "
+"Afform."
+msgstr ""
+"Les étiquettes peuvent être utilisées pour garder une trace de vos "
+"formulaires si l'option \"Utilisé pour\" est définie pour inclure Afform."
+
+msgid "Manage Tags"
+msgstr "Gérer les étiquettes"
+
+msgid "For"
+msgstr "Pour"
+
+msgid "Any contact type"
+msgstr "Tous type de contact"
+
+msgid "Position"
+msgstr "Position"
+
+msgid "Auto"
+msgstr "Automatique"
+
+msgid "Autosave Draft"
+msgstr "Sauvegarde automatique"
+
+msgid "For authenticated users, form will auto-save periodically."
+msgstr ""
+"Pour les utilisateurs authentifiés, le formulaire sera sauvegardé "
+"automatiquement et périodiquement."
+
+msgid ""
+"You may also place a \"Save Draft\" button on the form, with or without "
+"Autosave enabled."
+msgstr ""
+"Vous pouvez également placer un bouton « Enregistrer le brouillon » sur le "
+"formulaire, en activant ou non l'enregistrement automatique."
+
+msgid "Log Submissions"
+msgstr "Enregistrer les soumissions"
+
+msgid ""
+"Keep a log of the date, time, user, and items saved by each form submission."
+msgstr ""
+"Garder un enregistrement de la date, de l'heure, de l'utilisateur et des "
+"items enregistrés à chaque soumission du formulaire."
+
+msgid "Maximum Submissions"
+msgstr "Nombre maximum de soumissions"
+
+msgid "Unlimited"
+msgstr "Illimité"
+
+msgid "Verify submission before processing"
+msgstr "Vérifier la soumission avant le traitement"
+
+msgid ""
+"The data will need to be processed manually using Form Submission action."
+msgstr ""
+"Les données devront être traitées manuellement à l'aide de l'action "
+"\"Soumission du formulaire\"."
+
+msgid "Allow verification by email"
+msgstr "Permettre la vérification par courriel"
+
+msgid ""
+"The data can be processed via email verification. Email field should be "
+"included in the form for this functionality."
+msgstr ""
+"Les données peuvent être traitées via la vérification de l'adresse "
+"électronique. Le champ « adresse électronique » doit être inclus dans le "
+"formulaire pour cette fonctionnalité."
+
+msgid "Email template"
+msgstr "Modèle de courriel"
+
+msgid "Post-Submit Page"
+msgstr "Page post-soumission"
+
+msgid ""
+"Post-Submit Page must be either an absolute url, a relative url or a path "
+"starting with CiviCRM"
+msgstr ""
+"La page post-soumission doit être soit une URL absolue, une URL relative ou "
+"un chemin commençant par CiviCRM"
+
+msgid ""
+"Enter a URL or path that the form should redirect to following a successful "
+"submission."
+msgstr ""
+"Saisir une URL ou un chemin vers lequel le formulaire doit rediriger après "
+"une soumission réussie."
+
+msgid "Color:"
+msgstr "Couleur :"
+
+msgid "Button color scheme"
+msgstr "Schéma de couleur du bouton"
+
+msgid "Delete this button"
+msgstr "Supprimer ce bouton"
+
+msgid "Submit Form"
+msgstr "Soumettre le formulaire"
+
+msgid "Configure"
+msgstr "Configurer"
+
+msgid "Conditional Rules"
+msgstr "Règles conditionnelles"
+
+msgid "Add Conditional Rules"
+msgstr "Ajouter des règles conditionnelles"
+
+msgid "Edit Conditional Rules"
+msgstr "Modifier les règles conditionnelles"
+
+msgid "Save as block"
+msgstr "Enregistrer comme bloc"
+
+msgid "Element:"
+msgstr "Élément :"
+
+msgid "Container type"
+msgstr "Type de conteneur"
+
+msgid "Repeat"
+msgstr "Répéter"
+
+msgid "min"
+msgstr "min"
+
+msgid "max"
+msgstr "max"
+
+msgid "Layout:"
+msgstr "Mise en page :"
+
+msgid "Allow:"
+msgstr "Autoriser :"
+
+msgid "Update"
+msgstr "Mettre à jour"
+
+msgid "Remove container"
+msgstr "Retirer le conteneur"
+
+msgid "Remove block"
+msgstr "Retirer le bloc"
+
+msgid "Collapsible"
+msgstr "Repliable"
+
+msgid "Contents display as rows"
+msgstr "Les contenus s'affichent en ligne"
+
+msgid "Contents are evenly-spaced columns"
+msgstr "Les contenus sont des colonnes à espacement régulier"
+
+msgid "Contents are arranged inline"
+msgstr "Le contenu est disposé en ligne"
+
+msgid "Save block"
+msgstr "Enregistrer le bloc"
+
+msgid "Search Display"
+msgstr "Affichage de recherche"
+
+msgid "Block:"
+msgstr "Bloc :"
+
+msgid "Select block"
+msgstr "Sélectionner le bloc"
+
+msgid "Custom"
+msgstr "Personnalisé"
+
+msgid "Save..."
+msgstr "Enregistrement..."
+
+msgid "Container title"
+msgstr "Titre du conteneur"
+
+msgid "No title"
+msgstr "Aucun titre"
+
+msgid "Type:"
+msgstr "Type :"
+
+msgid "Field type"
+msgstr "Type de champ"
+
+msgid "Input date + time"
+msgstr "Insérer date + heure"
+
+msgid "Show Time"
+msgstr "Afficher l'heure"
+
+msgid "Max Length:"
+msgstr "Longueur maximale :"
+
+msgid "Decimal places:"
+msgstr "Nombre de décimales :"
+
+msgid "Decimal places"
+msgstr "Nombre de décimales"
+
+msgid "Use a saved search to filter the autocomplete results"
+msgstr ""
+"Utiliser une recherche sauvegardée pour filtrer les résultats de "
+"l'autocomplete"
+
+msgid "Saved Search"
+msgstr "Recherche enregistrée"
+
+msgid "Default Display"
+msgstr "Affichage par défaut"
+
+msgid "Should permissions be checked when autocompleting existing entities"
+msgstr ""
+"Les autorisations doivent elle etre vérifiées quand les entités existantes "
+"sont chargées dans l'autocomplete"
+
+msgid "Allow a new entity to be created via quick-add popup"
+msgstr ""
+"Permettre la création d'une nouvelle entité par l'intermédiaire d'une "
+"fenêtre contextuelle d'ajout rapide"
+
+msgid "Quick Add"
+msgstr "Ajout rapide"
+
+msgid "Show autocomplete results without typing"
+msgstr "Afficher les résultats d'autocomplétion sans saisir au clavier"
+
+msgid "Auto Open"
+msgstr "Ouverture automatique"
+
+msgid "Require this field"
+msgstr "Requiert ce champ"
+
+msgid "Pre-fill this field with a value"
+msgstr "Pré-remplir ce champ avec une valeur"
+
+msgid "Default value"
+msgstr "Valeur par défaut"
+
+msgid "Now"
+msgstr "Maintenant"
+
+msgid "Relative"
+msgstr "Relatif"
+
+msgid "Days"
+msgstr "Jours"
+
+msgid "Day"
+msgstr "Jour"
+
+msgid "Weeks"
+msgstr "Semaines"
+
+msgid "Week"
+msgstr "Semaine"
+
+msgid "Years"
+msgstr "Ans"
+
+msgid "Year"
+msgstr "Année"
+
+msgid "Show field label"
+msgstr "Afficher le libellé du champ"
+
+msgid "Label"
+msgstr "Libellé"
+
+msgid "Show help text above this field"
+msgstr "Afficher le texte d'aide au-dessus de ce champ"
+
+msgid "Pre help text"
+msgstr "Texte d'aide (avant)"
+
+msgid "Show help text below this field"
+msgstr "Afficher le texte d'aide sous ce champ"
+
+msgid "Post help text"
+msgstr "Texte d'aide (après)"
+
+msgid "Search multiple values"
+msgstr "Chercher des valeurs multiples"
+
+msgid "Multi-Select"
+msgstr "Sélection multiple"
+
+msgid "Search between low & high values"
+msgstr "Chercher entre les valeurs hautes et basses"
+
+msgid "Search by range"
+msgstr "Chercher par plage"
+
+msgid "Operator:"
+msgstr "Opérateur :"
+
+msgid ""
+"Set the search operator for this field or allow the user to select it on the "
+"form"
+msgstr ""
+"Sélectionner l'opérateur de recherche pour ce champ ou autoriser "
+"l'utilisateur à le sélectionner sur le formulaire."
+
+msgid "User Select"
+msgstr "Sélectionner un utilisateur"
+
+msgid "Default:"
+msgstr "Par défaut :"
+
+msgid "Default search operator for the user to select"
+msgstr "Opérateur de recherche par défaut que l'utilisateur doit sélectionner"
+
+msgid "Reset the option list for this field"
+msgstr "Réinitialiser la liste d'options pour ce champ"
+
+msgid "Default option list"
+msgstr "Liste d'option par défaut"
+
+msgid "Customize the option list for this field"
+msgstr "Personnaliser la liste d'options pour ce champ"
+
+msgid "Remove field from form"
+msgstr "Retirer le champ du formulaire"
+
+msgid "Remove field"
+msgstr "Retirer le champ"
+
+msgid "Autocomplete %1"
+msgstr "Auto-complétion %1"
+
+msgid "%1 ID"
+msgstr "Id. %1"
+
+msgid "Select Form %1"
+msgstr "Sélectionner le formulaire %1"
+
+msgid "Edit content"
+msgstr "Modifier le contenu"
+
+msgid "Delete this content"
+msgstr "Supprimer ce contenu"
+
+msgid "Editing content"
+msgstr "Modification du contenu"
+
+msgid "Remove display"
+msgstr "Supprimer l'affichage"
+
+msgid "Edit Saved Search"
+msgstr "Modifier la recherche enregistrée"
+
+msgid "Text style"
+msgstr "Style du texte"
+
+msgid "Delete this text"
+msgstr "Supprimer ce texte"
+
+msgid "Paragraph"
+msgstr "Paragraphe"
+
+msgid "Fieldset Legend"
+msgstr "Légende de l'ensemble de champs"
+
+msgid "Heading 1"
+msgstr "Titre 1"
+
+msgid "Heading 2"
+msgstr "Titre 2"
+
+msgid "Heading 3"
+msgstr "Titre 3"
+
+msgid "Heading 4"
+msgstr "Titre 4"
+
+msgid "Heading 5"
+msgstr "Titre 5"
+
+msgid "Heading 6"
+msgstr "Titre 6"
+
+msgid "Align left"
+msgstr "Aligner à gauche"
+
+msgid "Align center"
+msgstr "Aligner au centre"
+
+msgid "Align right"
+msgstr "Aligner à droite"
+
+msgid "Justify"
+msgstr "Justifier"
+
+msgid "Security"
+msgstr "Sécurité"
+
+msgid "Allowed Actions"
+msgstr "Actions autorisées"
+
+msgid "Create"
+msgstr "Créer"
+
+msgid "Accept ID from URL"
+msgstr "Accepter les identifiants depuis l'URL"
+
+msgid ""
+"Without Role-Based access, users of the form will be able to view and update "
+"any %1 by changing the id in the URL."
+msgstr ""
+"Sans un accès basé sur le rôle, les utilisateurs du formulaire seront "
+"capables de voir et de mettre à jour n'importe quel %1 en changeant l'id  "
+"dans l'URL."
+
+msgid "Update %1 by including the id in the link to this form:"
+msgstr "Mettre à jour %1 en incluant l'id dans le lien vers ce formulaire :"
+
+msgid ""
+"If you have made a repeating container for %1, you may update multiple %2s "
+"using comma-separated ids:"
+msgstr ""
+"Si vous avez créé un conteneur répétitif pour %1, vous pouvez mettre à jour "
+"plusieurs conteneurs %2s en utilisant des identifiants séparés par des "
+"virgules :"
+
+msgid "Subscribe"
+msgstr "S'inscrire"
+
+msgid "Unsubscribe"
+msgstr "Désabonner"
+
+msgid "Select"
+msgstr "Sélectionner"
+
+msgid "Click to add placeholder text"
+msgstr "Cliquer pour ajouter un texte fictif"
+
+msgid "Set default value"
+msgstr "Définir la valeur par défaut"
+
+msgid "Field value will be shown on the form"
+msgstr "La valeur du champ sera affichée sur le formulaire"
+
+msgid "(no placeholder)"
+msgstr "(pas de remplacement fictif)"
+
+msgid "Error: missing field \"%1\""
+msgstr "Erreur : champ manquant \"%1\""
+
+msgid "Clear Default"
+msgstr "Réinitialiser la valeur par défaut"
+
+msgid "Default Value:"
+msgstr "Valeur par défaut :"
+
+msgid "Saving a container as a block allows it to be reused across forms."
+msgstr ""
+"Enregistrer un conteneur comme un bloc permet de le réutiliser dans d'autres "
+"formulaires."
+
+msgid "Title:"
+msgstr "Titre :"
+
+msgid "Update %1"
+msgstr "Mettre à jour %1"
+
+msgid "Save New Block"
+msgstr "Enregistrer un nouveau bloc"
+
+msgid "Affects every form that uses this block, system-wide."
+msgstr ""
+"Affecte chaque formulaire qui utilise ce bloc, à travers tout le système."
+
+msgid "afform"
+msgstr "afform"
+
+msgid "Search results table"
+msgstr "Résultats de la requête"
+
+msgid "Form Submissions"
+msgstr "Soumissions de formulaire"
+
+msgid "Form Submissions Table"
+msgstr "Table des soumissions de formulaire"
+
+msgid "Id"
+msgstr "Id."
+
+msgid "Submitted by"
+msgstr "Soumis par"
+
+msgid "Anonymous"
+msgstr "Anonyme"
+
+msgid "Submission Date/Time"
+msgstr "Date/Heure de transmission"
+
+msgid "Submission Status"
+msgstr "Statut de la soumission"
+
+msgid "View"
+msgstr "Consulter"
+
+msgid "Process"
+msgstr "Traiter"
+
+msgid "Reject"
+msgstr "Rejeter"
+
+msgid "Dashboard"
+msgstr "Tableau de bord"
+
+msgid "Allow user to collapse this to only show title"
+msgstr "Autoriser l'utilisateur à le replier pour afficher uniquement le titre"
+
+msgid "Must have a title to be collapsible"
+msgstr "Doit avoir un titre pour être repliable"
+
+msgid "Current Contact"
+msgstr "Contact courant"
+
+msgid "Provide Email Token"
+msgstr "Fournir un jeton d'adresse électronique"
+
+msgid "Allows CiviMail authors to easily link to this page"
+msgstr ""
+"Autorise les auteurs de CiviMail à facilement créer un lien vers cette page"
+
+msgid "Add to Contact Summary Page"
+msgstr "Ajouter à la page de synthèse du contact"
+
+msgid "As Block"
+msgstr "Comme bloc"
+
+msgid "As Tab"
+msgstr "Comme onglet"
+
+msgid "Placement can be configured using the Contact Layout Editor."
+msgstr ""
+"Le positionnement peut être configuré en utilisant l'extension Contact "
+"Layout Editor."
+
+msgid "Add to Dashboard"
+msgstr "Ajouter au tableau de bord"
+
+msgid "Allow CiviCRM users to add the form to their home dashboard."
+msgstr ""
+"Autorise les utilisateurs de CiviCRM à ajouter le formulaire à leur tableau "
+"de bord."
+
+msgid "Submit Actions"
+msgstr "Soumettre les actions"
+
+msgid "Form Builder"
+msgstr "Form Builder"
+
+msgid "Upgrade %1 to revision %2"
+msgstr "Mettre à jour %1 vers la révision %2"
+
+msgid "Form Builder: %1"
+msgstr "Form Builder : %1"
+
+msgid "Auto-Update"
+msgstr "Mise à jour automatique"
+
+msgid "Current User"
+msgstr "Utilisateur actuel"
+
+msgid "Role-Based"
+msgstr "Basé sur le rôle"

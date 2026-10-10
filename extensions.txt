@@ -1,0 +1,7 @@
+afform
+afform_admin
+flexmailer
+geocoder
+mosaico
+recentmenu
+search_kit

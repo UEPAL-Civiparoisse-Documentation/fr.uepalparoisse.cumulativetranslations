@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-08 15:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Geocoder ID"
+msgstr ""
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "Title"
+msgstr "Titre"
+
+msgid "Class"
+msgstr ""
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Weight"
+msgstr "Poids"
+
+msgid "Api Key"
+msgstr ""
+
+msgid "Url"
+msgstr "URL"
+
+msgid "Required Fields"
+msgstr ""
+
+msgid "Retained Response Fields"
+msgstr ""
+
+msgid "Datafill Response Fields"
+msgstr ""
+
+msgid "Threshold standdown"
+msgstr ""
+
+msgid "Threshold Last Hit"
+msgstr ""
+
+msgid "Valid countries"
+msgstr ""
+
+msgid "Upgrade %1 to revision %2"
+msgstr "Mettre à jour %1 vers la révision %2"
+
+msgid "Failed to geocode address, no co-ordinates saved"
+msgstr ""
+
+msgid ""
+"Geocoder quota exceeded. No further geocoding attempts will be made for %1 "
+"seconds"
+msgstr ""
+
+msgid "Unknown geocoding error on :"
+msgstr ""
+
+msgid "Street Address"
+msgstr "Rue"
+
+msgid "City"
+msgstr "Ville"
+
+msgid "Postal code"
+msgstr "Code postal"
+
+msgid "County"
+msgstr "Comté/Département"
+
+msgid "State / Province"
+msgstr "Subdivision de pays"
+
+msgid "Country"
+msgstr "Pays"
+
+msgid "France only"
+msgstr ""
+
+msgid ""
+"Adhering to Terms of service is your responsibility - https://support.google."
+"com/code/answer/55180?hl=en"
+msgstr ""
+
+msgid ""
+"api key required - 15000 for free per month - sign up https://developer."
+"mapquest.com/plan_purchase/steps/business_edition/business_edition_free/"
+"register"
+msgstr ""
+
+msgid ""
+"app_id and app_code required in the api_key - ie your key\n"
+"    should look like:\n"
+"      {\"app_id\" : \"xyz\", \"app_code\" : \"klm\"}\n"
+"    "
+msgstr ""
+
+msgid ""
+"Additional config is required to set this up - you need to get a data set "
+"from http://download.geonames.org/export/zip/ & import it into your civicrm "
+"DB. Default table name is civicrm_geonames_lookup. A dataset for NZ ships "
+"with the extension as a sample. You need to load it though"
+msgstr ""
+
+msgid "Gecoders"
+msgstr ""
+
+msgid ""
+"To view more debugging information, edit the URL and include \"?"
+"angularDebug=1\"."
+msgstr ""
+
+msgid "Save"
+msgstr "Enregistrer"
+
+msgid "geocoder"
+msgstr ""
+
+msgid "Saving..."
+msgstr "Sauvegarde en cours"
+
+msgid "Saved"
+msgstr "Enregistré"
+
+msgid ""
+"The contact name  should be divided in two parts, the first name and last "
+"name."
+msgstr ""
+"Le nom du contact devrait être divisé en deux parties, le prénom et le nom."
